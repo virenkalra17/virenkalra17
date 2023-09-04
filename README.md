@@ -1,3 +1,4 @@
+![logo](https://github.com/virenkalra17/virenkalra17/blob/main/image.png)
 <h1 align="center">Hi 👋, I'm Viren Kalra</h1>
 <h3 align="center">A passionate Computer Engineer from India</h3>
 
